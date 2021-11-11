@@ -1,6 +1,7 @@
 # Instructions  
+{: .no_toc }
 
-<details open markdown="block">
+<details closed markdown="block">
   <summary>
     Table of contents
   </summary>
