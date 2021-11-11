@@ -1,7 +1,13 @@
 # Instructions  
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 **`alphabetical elements`**
 * Chemical elements are often written by using the relevant symbol which is one or two letters. 
