@@ -1,5 +1,8 @@
 # Instructions  
 
+1. TOC
+{:toc}
+
 **`alphabetical elements`**
 * Chemical elements are often written by using the relevant symbol which is one or two letters. 
 * In most cases the symbol is the first letter of the name, for example `C` is for `Carbon` but there are some exceptions, for example `K` is for `Potassium`.
